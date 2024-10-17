@@ -11,7 +11,7 @@ import java.util.*;
 public class BankingApp {
 	private static final String url = "jdbc:mysql://localhost:3306/banking";
     private static final String username = "root";
-    private static final String password = "Payal@123";
+    private static final String password = "password";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
