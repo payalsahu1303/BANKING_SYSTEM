@@ -53,7 +53,7 @@ To set up the database for this application, follow these steps:
 ## How to Run the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/banking-system.git
+   https://github.com/payalsahu1303/Banking-System.git
    cd banking-system
 2. Ensure you have Java and MySQL installed on your machine.
 3. Compile and run the Java application:
